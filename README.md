@@ -15,7 +15,7 @@ The **Ad-Track Fraud Detection System** is a machine learning project designed t
 ## How to Run the Project
    Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Ad-Track-Fraud-Detection-System.git  
+   git clone https://github.com/nanjana/Ad-Track-Fraud-Detection-System.git  
    ```
 ## Navigate to the project directory:
    cd Ad-Track-Fraud-Detection-System
@@ -43,6 +43,5 @@ Recall
 F1-Score
 AUC-ROC
 
-
 ## Source Code:
-
+[Code_Source.py](Code_Source.py)
