@@ -5,7 +5,7 @@ The **Ad-Track Fraud Detection System** is a machine learning project designed t
 
 ## Features
 - **Data Preprocessing**: Cleans and preprocesses raw ad-tracking data.
-- **Feature Engineering**: Extracts useful features like IP address, click time, and app/device information to enhance model performance.
+- **Feature Engineering**: Extract useful features like IP address, click time, and app/device information to enhance model performance.
 - **Fraud Detection**: Implements machine learning models such as XGBoost to classify clicks as fraudulent or legitimate.
 - **Model Evaluation**: Provides accuracy, AUC-ROC curve, and other metrics to evaluate the model's performance.
 
@@ -27,21 +27,13 @@ The **Ad-Track Fraud Detection System** is a machine learning project designed t
 This system primarily uses the XGBoost algorithm for classification. The dataset includes features such as:
 
 IP Address
-Click Time
-App ID
-Device Type
-Operating System
-Channel
+Click Time, App ID,  Device Type, Operating System Channel
 
 The goal is to classify whether each click is fraudulent.
 
 ## Results
 The model is evaluated based on:
-Accuracy
-Precision
-Recall
-F1-Score
-AUC-ROC
+Accuracy, Precision, Recall, F1-Score, AUC-ROC
 
 ## Source Code:
 [Code_Source.py](Code_Source.py)
